@@ -31,6 +31,6 @@ Graduate School of Mathematics,
 - Ryo Takenaka (Osaka Metropolitan University)
 - Wataru Yuasa (Kyoto Univeristy)
 
-# [Title and Abstract](titleabstract.md)
+# Title and Abstract
 
-# [Program](program-slides.md)
+# Program
