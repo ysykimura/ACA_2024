@@ -6,8 +6,8 @@ title: Advances in Cluster Algebras 2024
 March 11(Mon)--13(Wed), 2024
 
 # Venue
-Nagoya University
-Graduate School of Mathematics
+Nagoya University,
+Graduate School of Mathematics,
 109
 
 # Organizers
