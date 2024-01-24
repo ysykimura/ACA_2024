@@ -33,4 +33,4 @@ Graduate School of Mathematics,
 
 # [Title and Abstract](titleabstract.md)
 
-# [Program and Slides](program-slides.md)
+# [Program](program-slides.md)
