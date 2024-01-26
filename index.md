@@ -20,14 +20,14 @@ Graduate School of Mathematics,
 # Lecturer
 - Se-jin Oh (Sungkyunkwan University)
 
-# (Tentative) Speakers
+# Speakers
 - Ryota Akagi (Nagoya University)
 - Yasuaki Gyoda (The Univeristy of Tokyo)
 - Rei Inoue (Chiba University)
 - Katsuyuki Naoi (Tokyo University of Agriculture and Technology)
 - Yusuke Nakajima (Kyoto Sangyo University)
 - Yuma Mizuno (Chiba University)
-- Kaveh Mousavand (Okinawa Institute of Science and Technology)*
+- Kaveh Mousavand (Okinawa Institute of Science and Technology)
 - Ryo Takenaka (Osaka Metropolitan University)
 - Wataru Yuasa (Kyoto Univeristy)
 
