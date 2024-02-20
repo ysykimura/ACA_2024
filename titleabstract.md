@@ -6,9 +6,9 @@ title: Title and Abstract
 <script type="text/x-mathjax-config">MathJax.Hub.Config({tex2jax:{inlineMath:[['\$','\$'],['\\(','\\)']],processEscapes:true},CommonHTML: {matchFontHeight:false}});</script>
 <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML"></script>
 
-# Title and Abstract 
+# Lecturer
 
-## Se-jin Oh(Sungkyunkwan University)
+## Se-jin Oh (Sungkyunkwan University)
 ### Quantum tori associated with sequences and their applications
 
 The quantum cluster algebra is introduced by Berenstein-Fomin-Zelevinsky to provide an algebraic-combinatorial
@@ -19,7 +19,7 @@ indices of quantum groups. These quantum tori are deeply related with the root s
 In the first and second talks, we explore the construction of these quantum tori and their associated applications by focusing on "reduced" sequences.
 In the third talk, we broaden our scope by removing the constraints of reducedness, discussing recent developments associated with such sequences.
 
-----
+# Speakers
 
 ## Yasuaki Gyoda (The University of Tokyo)
 ### Generalized Markov number and generalized cluster algebra
