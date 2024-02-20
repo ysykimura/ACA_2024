@@ -6,7 +6,20 @@ title: Title and Abstract
 <script type="text/x-mathjax-config">MathJax.Hub.Config({tex2jax:{inlineMath:[['\$','\$'],['\\(','\\)']],processEscapes:true},CommonHTML: {matchFontHeight:false}});</script>
 <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML"></script>
 
-# Title and Abstract
+# Title and Abstract 
+
+## Se-jin Oh(Sungkyunkwan University)
+### Quantum tori associated with sequences and their applications
+
+The quantum cluster algebra is introduced by Berenstein-Fomin-Zelevinsky to provide an algebraic-combinatorial
+framework for investigating the basis of quantum groups. By the celebrated quantum Laurent phenomena, it is a $\mathbb{Z}[q^{\pm 1/2}]$-subalgebra
+of quantum tori associated with each quantum seed.  In this series of talks, we consider the quantum tori associated with sequences of
+indices of quantum groups. These quantum tori are deeply related with the root system and (monoidal) categorifications via quiver Hecke algebras.
+
+In the first and second talks, we explore the construction of these quantum tori and their associated applications by focusing on "reduced" sequences.
+In the third talk, we broaden our scope by removing the constraints of reducedness, discussing recent developments associated with such sequences.
+
+----
 
 ## Yasuaki Gyoda (The University of Tokyo)
 ### Generalized Markov number and generalized cluster algebra
@@ -21,3 +34,4 @@ I will review a geometric interpretation of cluster varieties in terms of blowup
 A strong duality datum is a family of finite-dimensional simple modules over a quantum affine algebra $U_q'(\hat{\mathfrak{g}})$. One important property is that we can associate from it the quantum Schur--Weyl duality functor preserving simple modules.
 Extended $T$-systems, introduced by Mukhin--Young, are short exact sequences satisfied by the tensor product of finite-dimensional simple $U_q'(\hat{\mathfrak{g}})$-modules
 in types $A$ and $B$ (called snake modules), which contains the celebrated $T$-systems. In this talk, motivated by the generalization of $T$-systems given by Kashiwara--Kim--Oh--Park, we give a generalization of extended $T$-systems for a general strong duality datum of type $A$, which coincides with the Mukhin--Young's extended $T$-systems when we take a strong duality datum consisting of fundamental modules.
+
