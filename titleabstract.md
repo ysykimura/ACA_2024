@@ -21,7 +21,7 @@ In the third talk, we broaden our scope by removing the constraints of reducedne
 
 # Speakers
 
-## Rei Inoue (University of Chiba)
+## Rei Inoue (Chiba University)
 ### Quantum cluster mutations and 3D integrablity
 The tetrahedron equation was proposed by Zamolodchikov in 1980, and the 3D reflection equation was 
 proposed by Isaev and Kulish in 1997, to describe the integrability of 3D lattice models. 
