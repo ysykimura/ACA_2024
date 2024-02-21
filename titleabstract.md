@@ -42,6 +42,11 @@ The Markov equation $x^2+y^2+z^2=3xyz$, studied in the theory of Diophantine app
 ### Cluster structures on $q$-Painlevé systems via toric geometry
 I will review a geometric interpretation of cluster varieties in terms of blowups of toric varieties discovered by Gross, Hacking, and Keel. I will show that this provides the cluster theoretic interpretation for the geometry of $q$-Painlevé systems studied by Sakai, when the rank (in the sense of linear algebras) of an exchange matrix is two.
 
+## Yusuke Nakajima (Kyoto Sangyo University)
+### Mutations and wall-crossings for dimer models associated to toric cDV singularities
+A dimer model, which is a bipartite graph described on the real two-torus, provides the quiver with relations as its dual graph. It is known that for any three-dimensional Gorenstein toric singularity, there exists a dimer model such that the center of the associated path algebra is isomorphic to such a toric singularity, and mutations of dimer models produce several dimer models giving rise to the same toric singularity. On the other hand, for the quiver with relations obtained as the dual of a dimer model, we can consider the stability condition in the sense of A. King. The space of stability conditions has the wall-and-chamber structure and a wall-crossing in the space plays an important role in birational geometry of the associated toric singularity. 
+In this talk, I will focus on a dimer model associated to a toric cDV (compound Du Val) singularity, and discuss a relationship among mutations of dimer models and wall-crossings in the stability space.
+
 ## Katsuyuki Naoi (Tokyo University of Agriculture and Technology)
 ### Strong duality data of type $A$ and extended $T$-systems
 A strong duality datum is a family of finite-dimensional simple modules over a quantum affine algebra $U_q'(\hat{\mathfrak{g}})$. One important property is that we can associate from it the quantum Schur--Weyl duality functor preserving simple modules.
