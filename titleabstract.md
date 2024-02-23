@@ -72,3 +72,12 @@ A strong duality datum is a family of finite-dimensional simple modules over a q
 Extended $T$-systems, introduced by Mukhin--Young, are short exact sequences satisfied by the tensor product of finite-dimensional simple $U_q'(\hat{\mathfrak{g}})$-modules
 in types $A$ and $B$ (called snake modules), which contains the celebrated $T$-systems. In this talk, motivated by the generalization of $T$-systems given by Kashiwara--Kim--Oh--Park, we give a generalization of extended $T$-systems for a general strong duality datum of type $A$, which coincides with the Mukhin--Young's extended $T$-systems when we take a strong duality datum consisting of fundamental modules.
 
+## Ryo Takenaka (Osaka Metropolitan University)
+### On exponents associated with Y-systems
+Let $(X_n,\ell)$ be a finite type Dynkin diagram and $\ell$ be a positive integer such that $\ell\geq2$.
+For a pair $(X_n,\ell)$, we have a system of algebraic relations called Y-system.
+Solutions of these Y-systems have the periodicity.
+Due to this fact, Mizuno introduced the notion called exponent.
+He gave conjectural formulas on exponents and proved for pairs $(A_1,\ell)$ and $(A_n,2)$.
+In this talk, we assume that $\ell=2$ and show for types $B_n$ and $D_n$.
+
