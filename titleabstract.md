@@ -81,3 +81,13 @@ Due to this fact, Mizuno introduced the notion called exponent.
 He gave conjectural formulas on exponents and proved for pairs $(A_1,\ell)$ and $(A_n,2)$.
 In this talk, we assume that $\ell=2$ and show for types $B_n$ and $D_n$.
 
+## Wataru Yuasa (Kyoto University)
+### Skein and cluster algebras with coefficients for unpunctured surfaces
+We propose a skein model of the quantum cluster algebras of surface type 
+with coefficients. The skein algebra generalizes Muller's skein algebra 
+by introducing the wall system, a collection of labeled curves, to the 
+underlying surface. A natural map between skein algebras of walled 
+surfaces obtained by resolving a crossing of walls gives a 
+quasi-homomorphism as defined by Fraser. We also introduce the stated 
+skein algebra of a walled surface and generalizations of wall systems. 
+This talk is based on joint work with Shunsuke Kano and Tsukasa Ishibashi.
