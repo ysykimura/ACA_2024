@@ -21,6 +21,25 @@ In the third talk, we broaden our scope by removing the constraints of reducedne
 
 # Speakers
 
+## Ryota Akagi (Nagoya University)
+### Explicit forms in lower degrees of rank 2 cluster scattering diagrams.
+
+Cluster scattering diagrams, introduced by Gross, Hacking, Keel, and 
+Kontsevich, are a special type of scattering diagrams that encodes all 
+information of cluster patterns, in particular, $c,g$-vectors and 
+$F$-polynomials.
+  Cluster scattering diagrams are a set of walls. Under some assumptions, 
+every $g$-vector fan, which is an object of cluster algebras, can be 
+embedded into a cluster scattering diagram. Moreover, every wall 
+appearing in the $g$-vector fan can be described by using cluster 
+algebras. On the other hand, the structure in the complement of the 
+$g$-vector fan seems to be very complicated. In cluster scattering 
+diagrams, the complement of a $g$-fan is called the Badlands, and one of 
+the most important themes is to clarify all walls in the Badlands.
+  In this talk, I will explain a method to obtain an expression of 
+cluster scattering diagrams explicitly in lower degrees.
+
+
 ## Rei Inoue (Chiba University)
 ### Quantum cluster mutations and 3D integrablity
 The tetrahedron equation was proposed by Zamolodchikov in 1980, and the 3D reflection equation was 
