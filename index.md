@@ -10,13 +10,6 @@ Nagoya University,
 Graduate School of Mathematics,
 109
 
-# Organizers
-- Osamu Iyama
-- Yoshiyuki Kimura
-- Tomoki Nakanishi (chief)
-- Hironori Oya
-
-
 # Lecturer
 - Se-jin Oh (Sungkyunkwan University)
 
@@ -34,3 +27,9 @@ Graduate School of Mathematics,
 # [Title and Abstract](titleabstract.md)
 
 # [Program](program.md)
+
+# Organizers
+- Osamu Iyama
+- Yoshiyuki Kimura
+- Tomoki Nakanishi (chief)
+- Hironori Oya
