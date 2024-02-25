@@ -21,4 +21,3 @@
 - 10:45~11:45 **Wataru Yuasa**
 - 13:00~14:00 **Yasuaki Gyoda**
 - 14:15~15:15 **Rei Inoue**
-
