@@ -17,10 +17,10 @@ Graduate School of Mathematics,
 - Ryota Akagi (Nagoya University)
 - Yasuaki Gyoda (The Univeristy of Tokyo)
 - Rei Inoue (Chiba University)
-- Yusuke Nakajima (Kyoto Sangyo University)
-- Katsuyuki Naoi (Tokyo University of Agriculture and Technology)
 - Yuma Mizuno (Chiba University)
 - Kaveh Mousavand (Okinawa Institute of Science and Technology)
+- Yusuke Nakajima (Kyoto Sangyo University)
+- Katsuyuki Naoi (Tokyo University of Agriculture and Technology)
 - Ryo Takenaka (Osaka Metropolitan University)
 - Wataru Yuasa (Kyoto Univeristy)
 
