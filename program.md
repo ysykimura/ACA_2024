@@ -14,7 +14,7 @@
 
 
 ## 3/11(Monday)
-- 13:00~14:00 **Se-jin Oh**, Quantum tori associated with sequences and their applications I
+- 13:00~14:00 **Se-jin Oh**, [Quantum tori associated with sequences and their applications I](slides/Se-jin_Oh_1.pdf)
 - 14:15~15:15 **Katsuyuki Naoi**, Strong duality data of type $A$ and extended $T$-systems
 - 15:30~16:30 **Yuma Mizuno**, Cluster structures on $q$-Painlevé systems via toric geometry
 
