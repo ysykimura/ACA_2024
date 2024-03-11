@@ -14,12 +14,12 @@
 
 
 ## 3/11(Monday)
-- 13:00~14:00 **Se-jin Oh**, [Quantum tori associated with sequences and their applications I](slides/Se-jin_Oh_1.pdf)
+- 13:00~14:00 **Se-jin Oh**, [Quantum tori associated with sequences and their applications I](slides/Se-jin_Oh_1_completed.pdf)
 - 14:15~15:15 **Katsuyuki Naoi**, Strong duality data of type $A$ and extended $T$-systems
 - 15:30~16:30 **Yuma Mizuno**, Cluster structures on $q$-Painlevé systems via toric geometry
 
 ## 3/12(Tuesday)
-- 9:30~10:30 **Se-jin Oh**, Quantum tori associated with sequences and their applications II
+- 9:30~10:30 **Se-jin Oh**, [Quantum tori associated with sequences and their applications II](slides/Se-jin_Oh_2.pdf)
 - 10:45~11:45 **Ryo Takenaka**, On exponents associated with Y-systems
 - 13:00~14:00 **Kaveh Mousavand**, A $\tau$-tilting counterpart of cluster algebras of minimal infinite type
 - 14:15~15:15 **Yusuke Nakajima**, Mutations and wall-crossings for dimer models associated to toric cDV singularities
