@@ -29,5 +29,5 @@
 ## 3/13(Wednesday)
 - 9:30~10:30 **Se-jin Oh**, [Quantum tori associated with sequences and their applications III](slides/Oh_3.pdf)
 - 10:45~11:45 **Wataru Yuasa**, Skein and cluster algebras with coefficients for unpunctured surfaces
-- 13:00~14:00 **Yasuaki Gyoda**, Generalized Markov number and generalized cluster algebra
+- 13:00~14:00 **Yasuaki Gyoda**, [Generalized Markov number and generalized cluster algebra](slides/Gyoda.pdf)
 - 14:15~15:15 **Rei Inoue**, Quantum cluster mutations and 3D integrablity
