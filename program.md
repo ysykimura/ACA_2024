@@ -19,7 +19,7 @@
 - 15:30~16:30 **Yuma Mizuno**, Cluster structures on $q$-Painlevé systems via toric geometry
 
 ## 3/12(Tuesday)
-- 9:30~10:30 **Se-jin Oh**, [Quantum tori associated with sequences and their applications II](slides/Se-jin_Oh_2.pdf)
+- 9:30~10:30 **Se-jin Oh**, [Quantum tori associated with sequences and their applications II](slides/Se-jin_Oh_2_completed.pdf)
 - 10:45~11:45 **Ryo Takenaka**, On exponents associated with Y-systems
 - 13:00~14:00 **Kaveh Mousavand**, A $\tau$-tilting counterpart of cluster algebras of minimal infinite type
 - 14:15~15:15 **Yusuke Nakajima**, Mutations and wall-crossings for dimer models associated to toric cDV singularities
@@ -27,7 +27,7 @@
 
 
 ## 3/13(Wednesday)
-- 9:30~10:30 **Se-jin Oh**, Quantum tori associated with sequences and their applications III
+- 9:30~10:30 **Se-jin Oh**, [Quantum tori associated with sequences and their applications III](slides/Se-jin_Oh_3.pdf)
 - 10:45~11:45 **Wataru Yuasa**, Skein and cluster algebras with coefficients for unpunctured surfaces
 - 13:00~14:00 **Yasuaki Gyoda**, Generalized Markov number and generalized cluster algebra
 - 14:15~15:15 **Rei Inoue**, Quantum cluster mutations and 3D integrablity
